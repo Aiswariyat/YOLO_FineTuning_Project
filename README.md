@@ -2,6 +2,8 @@
 # YOLOv5 Face Recognition Fine-Tuning
 
 This application fine-tunes the YOLOv5 model for face recognition using a zipped file of images. After fine-tuning, the model will be able to recognize the faces provided as well as the usual objects YOLOv5 is designed for.
+
+
 Link to the Docker Image: https://drive.google.com/file/d/1wypJ83gPAFJYM86q3Qpl5EMW8m4a2X10/view?usp=sharing
 
 ## Table of Contents
